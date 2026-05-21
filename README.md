@@ -1,4 +1,4 @@
-# 📦 Sistema de Controle de Estoque  
+# Sistema de Controle de Estoque  
 
 O sistema oferece:
 
